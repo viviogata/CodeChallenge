@@ -1,0 +1,22 @@
+:root {
+    /* Image */
+    --bg-image: url(../img/Background.svg);
+    --bg-image-mobile: url(../img/Bg-mobile.png);
+    --slide-image: url(../img/Slide.svg);
+    --slide-half-left-image: url(../img/Slide-half-left.svg);
+    --slide-half-right-image: url(../img/Slide-half-right.svg);
+
+    /* Color */
+    --title-color: #7723C9;
+    --pagination-color: #FF007A;
+    --pagination-background: #FFF;
+    
+    /* Size */
+    --title-desktop: 59px;
+    --slide-text-desktop: 12px;
+    --title-mobile: 28px;
+
+    /* Font Weight */
+    --w-title: 800;
+    --w-slide-text: 900;
+}
