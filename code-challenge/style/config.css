@@ -1,6 +1,7 @@
 :root {
     /* Image */
     --bg-image: url(../img/Background.svg);
+    --bg-image-mobile: url(../img/Bg-mobile.png);
     --slide-image: url(../img/Slide.svg);
     --slide-half-left-image: url(../img/Slide-half-left.svg);
     --slide-half-right-image: url(../img/Slide-half-right.svg);
